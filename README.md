@@ -8,9 +8,9 @@ self.meet_now_deeplink_after_end_30mins = "https://tsh.onelink.me/fkK9/dc737c8e?
 
 self.meet_now_after_start_30mins_url = "https://tsh.onelink.me/fkK9/dc737c8e?forceTime=2021-09-14T04:15:00.000Z&ticket=LNDu_LqPo6GMX9GctgAiu6b7n_cibr9811vnyS23jmXC-7HbxIR61brmXRIb6zVq"
 
-self.meet_now_deeplink_end_url = "https://tsh.onelink.me/fkK9/dc737c8e?forceTime=2021-09-14T05:15:00.000Z&ticket=LNDu_LqPo6GMX9GctgAiu6b7n_cibr9811vnyS23jmXC-7HbxIR61brmXRIb6zVq"
+self.meet_now_deeplink_end_url = "https://tsh.onelink.me/fkK9/dc737c8e?forceTime=2021-09-14T05:14:30.000Z&ticket=LNDu_LqPo6GMX9GctgAiu6b7n_cibr9811vnyS23jmXC-7HbxIR61brmXRIb6zVq"
 
-self.meet_now_deeplink_before_start_1min_url = "https://tsh.onelink.me/fkK9/dc737c8e?forceTime=2021-09-14T03:44:00.000Z&ticket=LNDu_LqPo6GMX9GctgAiu6b7n_cibr9811vnyS23jmXC-7HbxIR61brmXRIb6zVq"
+self.meet_now_deeplink_before_start_1min_url = "https://tsh.onelink.me/fkK9/dc737c8e?forceTime=2021-09-14T03:44:30.000Z&ticket=LNDu_LqPo6GMX9GctgAiu6b7n_cibr9811vnyS23jmXC-7HbxIR61brmXRIb6zVq"
                                               
 SCHEDULE ADHOC SESSION - SCHEDULED
 self.scheduled_participant_name = "Prospect Autotest Kerri Clark"
