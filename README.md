@@ -28,9 +28,9 @@ self.scheduled_reshedule_before_5days_url = "https://tsh.onelink.me/fkK9/dc737c8
 
 self.scheduled_before_start_1day_url = "https://tsh.onelink.me/fkK9/dc737c8e?forceTime=2030-04-26T08:15:00.000Z&ticket=PoAW_LDg0zFNPckUyHuPyVMSrQZ7UFIfSsGOEAslnZQR7UxwvNXjEj8f8ExUnHoM"
 
-self.scheduled_before_start_1min_url = "https://tsh.onelink.me/fkK9/dc737c8e?forceTime=2030-04-26T08:14:30.000Z&ticket=PoAW_LDg0zFNPckUyHuPyVMSrQZ7UFIfSsGOEAslnZQR7UxwvNXjEj8f8ExUnHoM"
+self.scheduled_before_start_1min_url = "https://tsh.onelink.me/fkK9/dc737c8e?forceTime=2030-04-27T08:14:30.000Z&ticket=PoAW_LDg0zFNPckUyHuPyVMSrQZ7UFIfSsGOEAslnZQR7UxwvNXjEj8f8ExUnHoM"
 
-self.scheduled_before_end_1min_url = "https://tsh.onelink.me/fkK9/dc737c8e?forceTime=2030-04-26T09:44:30.000Z&ticket=PoAW_LDg0zFNPckUyHuPyVMSrQZ7UFIfSsGOEAslnZQR7UxwvNXjEj8f8ExUnHoM"
+self.scheduled_before_end_1min_url = "https://tsh.onelink.me/fkK9/dc737c8e?forceTime=2030-04-27T09:44:30.000Z&ticket=PoAW_LDg0zFNPckUyHuPyVMSrQZ7UFIfSsGOEAslnZQR7UxwvNXjEj8f8ExUnHoM"
 
 MT CLASS
 self.mt_class_participant_1_name = "Prospect Autotest Jessica Shields"
