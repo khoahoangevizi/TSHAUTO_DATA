@@ -41,9 +41,9 @@ self.mt_class_lobby_open = "https://tsh.onelink.me/fkK9/dc737c8e?forceTime=2030-
 
 self.mt_class_class_open = "https://tsh.onelink.me/fkK9/dc737c8e?forceTime=2030-04-30T05:00:00.000Z&ticket=agbcSEaw0yCMXjCArjjA3px-NUCAsQqQOAvYVUo_haURy8dUfw5hYmNBzxg0jva-"
 
-self.mt_class_class_end = "https://tsh.onelink.me/fkK9/dc737c8e?forceTime=2030-04-30T06:30:00.000Z&ticket=agbcSEaw0yCMXjCArjjA3px-NUCAsQqQOAvYVUo_haURy8dUfw5hYmNBzxg0jva-"
+self.mt_class_class_end = "https://tsh.onelink.me/fkK9/dc737c8e?forceTime=2030-04-30T06:29:00.000Z&ticket=agbcSEaw0yCMXjCArjjA3px-NUCAsQqQOAvYVUo_haURy8dUfw5hYmNBzxg0jva-"
 
-self.mt_class_lobby_end = "https://tsh.onelink.me/fkK9/dc737c8e?forceTime=2030-04-30T06:45:00.000Z&ticket=agbcSEaw0yCMXjCArjjA3px-NUCAsQqQOAvYVUo_haURy8dUfw5hYmNBzxg0jva-"
+self.mt_class_lobby_end = "https://tsh.onelink.me/fkK9/dc737c8e?forceTime=2030-04-30T06:44:00.000Z&ticket=agbcSEaw0yCMXjCArjjA3px-NUCAsQqQOAvYVUo_haURy8dUfw5hYmNBzxg0jva-"
 
 self.mt_class_lobby_end_30mins_after = "https://tsh.onelink.me/fkK9/dc737c8e?forceTime=2030-04-30T07:15:00.000Z&ticket=agbcSEaw0yCMXjCArjjA3px-NUCAsQqQOAvYVUo_haURy8dUfw5hYmNBzxg0jva-"
 
